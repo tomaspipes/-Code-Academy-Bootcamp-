@@ -24,14 +24,22 @@ PromptView: terminal interface, input/output streams, scanners, etc.
 HTML5 && CSS: Bootstrap, flexbox, etc. Thymeleaf: dynamic templating
 
 ✔️ Design Patterns
-Factory (used in JavaBank)
-Strategy (used in JavaBank)
-State (state machine of TCP handshake)
-Builder (StringBuilder pattern)
-Observer
-Singleton (used by Spring in bean creation)
-Decorator (used by BufferedReader())
-These are some examples and what context they were mentioned during the bootcamp.
+
+• Factory (used in JavaBank)
+
+• Strategy (used in JavaBank)
+
+• State (state machine of TCP handshake)
+
+• Builder (StringBuilder pattern)
+
+• Observer
+
+• Singleton (used by Spring in bean creation)
+
+• Decorator (used by BufferedReader())
+
+• These are some examples and what context they were mentioned during the bootcamp.
 
 ✔️ MVC and Service Layer
 Architectural pattern, separation of responsability, layer pattern.
