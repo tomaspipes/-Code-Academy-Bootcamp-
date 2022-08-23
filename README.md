@@ -10,7 +10,7 @@
 
 • Networking Game (7th Week)
 
-• Hackathon Project (13th Week)
+• Hackathon Project (13th Week) // 1st place in 11 teams
 
 • Single Page Application (final week JS project)
 
